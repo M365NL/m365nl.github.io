@@ -2,7 +2,6 @@
 
 Shiny!!
 
-Let's see if [this][sexylink] works or [this one][jeroen]!
+Let's see if [this][sexylink] works.
 
 [sexylink]: test.md
-[jeroen]: jeroen.md
